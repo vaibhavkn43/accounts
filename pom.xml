@@ -14,18 +14,7 @@
 	<name>accounts</name>
 	<description>Microservice for accounts</description>
 	<url/>
-	<licenses>
-		<license/>
-	</licenses>
-	<developers>
-		<developer/>
-	</developers>
-	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
-	</scm>
+<packaging>jar</packaging>
 	<properties>
 		<java.version>21</java.version>
 	</properties>
